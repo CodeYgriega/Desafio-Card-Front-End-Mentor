@@ -38,6 +38,7 @@ body {
     border: 5px white solid;
     border-radius: 50%;
     margin-top: -53px;
+    padding-bottom: 10px;
 }
 .card-main {
     display: flex;
